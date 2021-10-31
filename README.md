@@ -1,7 +1,4 @@
-# xSylla profile
 <img align='right' src='https://64.media.tumblr.com/d4b4275455080b20d0c0cd952829a572/ca93ec7f9a6b6c23-e5/s540x810/5ce52aecbb429648797b856f26a1a6505fb895a5.gifv' width='300'>
-
-Hi there! I'm xSylla
 
 ## Social Links
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/xSylla)
